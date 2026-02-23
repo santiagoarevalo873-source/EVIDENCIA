@@ -12,5 +12,7 @@ void main() {
   String? segundoApellido = stdin.readLineSync();
   print("usuario ingrese su edad");
   String? edad = stdin.readLineSync();
+  print("usuario ingrese su año de nacimiento");
+  String? anio_Nacimiento = stdin.readLineSync();
   
   }
