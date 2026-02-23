@@ -12,3 +12,4 @@ e=input();
 print ("usuario ingrese su año de nacimiento");
 nac=input();
 print ("primer_nombre:",n,"segundo_nombre:",a,"primer_apellido:",p,"segundo_apellido:",s,"edad:",e,"año_nacimiento:",nac);
+print ("se registro el usuario: ",n," ",a," ",p," ",s," con edad de: ",e,"  año de nacimiento: ",nac);
