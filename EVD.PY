@@ -1,0 +1,15 @@
+print ("bienvenido");
+print ("usuario ingrese su primer nombre");
+n=input();
+print ("usuario ingrese su segundo nombre");
+a=input();
+print ("usuario ingrese su primer apellido");
+p=input();
+print ("usuario ingrese su segundo apellido");
+s=input();
+print ("usuario ingrese su edad");
+e=input();
+print ("usuario ingrese su año de nacimiento");
+nac=input();
+print ("primer_nombre:",n,"segundo_nombre:",a,"primer_apellido:",p,"segundo_apellido:",s,"edad:",e,"año_nacimiento:",nac);
+print ("se registro el usuario: ",n," ",a," ",p," ",s," con edad de: ",e,"  año de nacimiento: ",nac);
