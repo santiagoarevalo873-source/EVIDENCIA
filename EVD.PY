@@ -9,3 +9,5 @@ print ("usuario ingrese su segundo apellido");
 s=input();
 print ("usuario ingrese su edad");
 e=input();
+print ("usuario ingrese su año de nacimiento");
+nac=input();
