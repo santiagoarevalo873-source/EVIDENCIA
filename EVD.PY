@@ -11,3 +11,4 @@ print ("usuario ingrese su edad");
 e=input();
 print ("usuario ingrese su año de nacimiento");
 nac=input();
+print ("primer_nombre:",n,"segundo_nombre:",a,"primer_apellido:",p,"segundo_apellido:",s,"edad:",e,"año_nacimiento:",nac);
