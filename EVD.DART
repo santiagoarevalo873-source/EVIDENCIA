@@ -14,5 +14,6 @@ void main() {
   String? edad = stdin.readLineSync();
   print("usuario ingrese su año de nacimiento");
   String? anio_Nacimiento = stdin.readLineSync();
-  
+   print("se registro el usuario ${primerNombre} ${segundoNombre} ${primerApellido} ${segundoApellido} con la edad de ${edad} y año de nacimiento ${anio_Nacimiento}",
+  );
   }
