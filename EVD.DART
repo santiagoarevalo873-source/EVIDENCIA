@@ -8,4 +8,6 @@ void main() {
   String? segundoNombre = stdin.readLineSync();
   print("usuario ingrese su primer apellido");
   String? primerApellido = stdin.readLineSync();
+    print("usuario ingrese su segundo apellido");
+  String? segundoApellido = stdin.readLineSync();
   }
